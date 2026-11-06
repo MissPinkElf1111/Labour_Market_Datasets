@@ -1,0 +1,47 @@
+﻿"Employment and average weekly earnings (including overtime) for all employees by province and territory, monthly, seasonally adjusted 1 2 3 4 5"
+"Frequency: Monthly"
+"Table: 14-10-0223-01 (formerly CANSIM 281-0063)"
+"Release date: 2026-10-29"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Estimate","Employment for all employees",,,,,,,,,,,,,,,,,,,,,,,,
+"North American Industry Classification System (NAICS) 5","Industrial aggregate including unclassified businesses 6 7",,,,,,,,,,,,,,,,,,,,,,,,
+"Geography","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025","April 2025","May 2025","June 2025","July 2025","August 2025","September 2025","October 2025","November 2025","December 2025","January 2026","February 2026","March 2026","April 2026","May 2026","June 2026","July 2026","August 2026"
+,"Persons",,,,,,,,,,,,,,,,,,,,,,,,
+"Canada","18,265,824","18,252,107","18,244,029","18,248,116","18,305,414","18,309,852","18,283,983","18,248,468","18,253,460","18,280,118","18,263,349","18,288,041","18,311,256","18,284,412","18,306,842","18,308,379","18,297,738","18,342,050","18,303,917","18,309,578","18,368,555","18,413,593","18,433,782","18,418,112","18,368,488"
+"Newfoundland and Labrador","217,751","220,128","220,127","220,412","220,733","220,143","219,647","219,887","220,389","221,074","221,157","222,266","220,781","220,447","219,829","219,062","219,841","220,589","220,241","221,031","221,575","224,297","224,227","224,542","224,702"
+"Prince Edward Island","79,083","78,680","78,733","78,327","78,767","78,400","77,582","77,811","78,117","79,221","80,046","79,026","77,163","78,788","78,612","78,037","77,951","78,516","77,920","77,596","77,883","78,424","78,740","78,692","77,912"
+"Nova Scotia","459,839","459,967","459,551","459,601","462,206","461,188","460,116","460,901","461,093","462,409","464,891","465,529","464,296","466,060","464,612","466,472","466,482","464,659","465,866","466,227","468,630","468,884","469,484","468,512","469,535"
+"New Brunswick","359,982","359,442","361,177","362,244","363,343","366,332","365,274","365,030","365,191","365,601","365,084","365,862","366,124","366,116","367,761","367,407","368,445","369,385","369,028","369,721","371,547","371,701","372,622","373,951","370,895"
+"Quebec","4,085,810","4,088,096","4,087,842","4,082,029","4,097,704","4,096,024","4,095,845","4,083,008","4,073,744","4,075,977","4,074,055","4,075,208","4,084,210","4,087,821","4,083,921","4,087,728","4,084,856","4,088,819","4,079,538","4,076,621","4,077,780","4,091,217","4,098,009","4,079,640","4,090,116"
+"Ontario","7,086,366","7,070,521","7,056,223","7,067,682","7,086,543","7,096,113","7,078,413","7,055,640","7,067,208","7,075,319","7,059,603","7,073,668","7,090,601","7,053,621","7,074,248","7,065,969","7,057,970","7,080,289","7,058,393","7,063,160","7,089,657","7,092,496","7,098,962","7,102,339","7,058,662"
+"Manitoba","645,109","643,246","642,845","643,068","642,413","643,347","642,308","640,534","639,195","642,434","641,286","642,219","643,210","643,342","645,230","643,759","641,355","644,859","644,156","646,382","648,510","651,726","652,485","654,201","654,387"
+"Saskatchewan","516,717","519,005","518,299","520,892","523,833","521,451","522,056","520,692","522,782","525,972","526,240","526,111","528,461","529,372","531,933","532,938","531,742","532,649","531,950","532,212","535,059","537,894","538,835","539,615","536,218"
+"Alberta","2,168,814","2,167,919","2,174,849","2,175,142","2,180,750","2,180,719","2,176,422","2,178,264","2,179,589","2,183,101","2,184,969","2,196,380","2,192,808","2,191,803","2,194,229","2,198,186","2,202,090","2,204,109","2,204,637","2,204,952","2,219,021","2,232,070","2,236,011","2,234,172","2,229,563"
+"British Columbia","2,571,234","2,569,904","2,569,061","2,564,298","2,574,101","2,571,498","2,571,772","2,572,477","2,571,690","2,574,125","2,570,953","2,566,438","2,568,331","2,571,781","2,571,247","2,573,292","2,571,671","2,581,885","2,576,338","2,575,465","2,581,985","2,587,243","2,586,914","2,584,385","2,578,049"
+"Yukon","25,164","25,238","25,419","25,304","25,466","25,173","25,266","25,094","25,113","25,385","25,383","25,384","25,574","25,644","25,509","25,403","25,051","25,459","26,144","26,542","26,800","26,908","26,599","26,721","26,968"
+"Northwest Territories","27,951","27,931","27,824","27,657","27,811","27,668","27,298","27,226","27,187","27,408","27,550","27,720","27,487","27,448","27,759","27,831","27,525","27,396","27,070","26,863","26,949","27,355","27,486","27,487","27,602"
+"Nunavut","22,006","22,030","22,079","21,458","21,745","21,797","21,984","21,904","22,160","22,091","22,132","22,232","22,209","22,167","21,954","22,295","22,757","23,435","22,635","22,807","23,158","23,380","23,407","23,856","23,879"
+
+Symbol legend:
+B, data quality: very good
+C, data quality: good
+
+
+
+
+Footnotes:
+1,"The quality indicators take into account various factors that affect the quality of the data, notably the CV, the non-response errors and the imputation errors. Quality indicators indicate the following: A - Excellent; B - Very good; C - Good; D - Acceptable; E - Use with caution; F - Too unreliable to publish or sample size is too small to produce reliable estimates."
+2,"Some series exhibit no clear seasonal pattern. In such cases the data are not adjusted."
+3,"The introduction of administrative data in 2001 and the associated change in methodology resulted in level shifts for some series. This affects the comparability of pre- and post-2001 estimates."
+4,"Estimates for the latest reference month are preliminary."
+5,"Industry estimates in this table are based on the 2022 North American Industry Classification System (NAICS) Version 1.0."
+6,"Industrial aggregate covers all industrial sectors except those primarily involved in agriculture, fishing and trapping, private household services, religious organisations and the military personnel of the defence services."
+7,"Unclassified businesses (00) are businesses for which the industrial classification (North American Industry Classification System [NAICS] 2022 Version 1.0) has yet to be determined."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0223-01  Employment and average weekly earnings (including overtime) for all employees by province and territory, monthly, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022301

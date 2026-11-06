@@ -1,0 +1,88 @@
+﻿"Job vacancies and average offered hourly wage by occupation (unit group), quarterly, unadjusted for seasonality c 1 2"
+"Frequency: Quarterly"
+"Table: 14-10-0444-01"
+"Release date: 2026-09-15"
+"Geography: Canada, Province or territory, Economic region"
+""
+""
+
+,"Geography 3","Canada",,,,,,,,
+"National Occupational Classification 4 5","Statistics","Q2 2024","Q3 2024","Q4 2024","Q1 2025","Q2 2025","Q3 2025","Q4 2025","Q1 2026","Q2 2026"
+"Total, all occupations",,"Number",,,,,,,,
+,"Job vacancies 6","621,085","572,350","517,570","490,170","545,910","514,465","469,840","473,035","548,400"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","26.80","27.55","28.30","28.90","28.00","28.45","29.25","29.55","28.55"
+"Legislative and senior management occupations  [0]",,"Number",,,,,,,,
+,"Job vacancies 6","1,140","1,325","1,005","1,115","855","630","455","780","835"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","70.50","81.30","82.90","88.15","82.70","86.05","88.85","80.25","82.60"
+"Business, finance and administration occupations  [1]",,"Number",,,,,,,,
+,"Job vacancies 6","78,300","75,760","69,255","68,450","69,605","66,335","65,015","66,330","70,795"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","29.30","30.30","31.35","31.15","31.50","31.95","32.80","32.75","32.45"
+"Natural and applied sciences and related occupations  [2]",,"Number",,,,,,,,
+,"Job vacancies 6","43,920","41,590","39,730","41,335","40,955","39,055","36,970","41,060","43,400"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","39.15","40.85","40.60","41.45","41.30","42.00","43.20","42.25","41.80"
+"Health occupations  [3]",,"Number",,,,,,,,
+,"Job vacancies 6","87,270","79,730","79,685","74,715","69,235","66,890","66,630","62,740","63,850"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","32.40","32.65","33.20","33.70","34.35","34.05","34.35","34.70","34.85"
+"Occupations in education, law and social, community and government services  [4]",,"Number",,,,,,,,
+,"Job vacancies 6","57,095","54,785","50,645","49,730","50,335","45,725","43,510","43,460","43,735"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","28.80","29.10","29.65","29.35","29.75","30.05","30.90","31.00","30.95"
+"Occupations in art, culture, recreation and sport  [5]",,"Number",,,,,,,,
+,"Job vacancies 6","12,145","10,395","9,380","9,335","12,400","8,995","7,770","8,445","10,910"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","24.05","25.95","27.35","26.05","25.00","28.60","29.50","27.70","26.40"
+"Sales and service occupations  [6]",,"Number",,,,,,,,
+,"Job vacancies 6","185,070","167,950","147,115","131,285","167,170","159,990","136,780","132,310","171,750"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","19.45","19.80","20.05","20.70","20.25","20.40","20.75","21.20","20.60"
+"Trades, transport and equipment operators and related occupations  [7]",,"Number",,,,,,,,
+,"Job vacancies 6","114,595","108,035","93,405","87,075","98,720","96,120","86,450","88,715","105,255"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","27.95","28.55","29.30","29.70","29.00","29.80","30.10","30.30","29.70"
+"Natural resources, agriculture and related production occupations  [8]",,"Number",,,,,,,,
+,"Job vacancies 6","18,975","12,645","10,265","10,475","17,735","12,010","9,225","10,450","16,190"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","21.45","22.95","23.80","24.35","22.50","24.65","24.80","25.15","23.90"
+"Occupations in manufacturing and utilities  [9]",,"Number",,,,,,,,
+,"Job vacancies 6","20,970","19,075","16,565","16,375","18,115","18,375","16,645","18,180","21,215"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","24.80","24.95","25.70","26.55","25.40","25.80","26.00","25.90","26.05"
+"Unclassified occupations 8",,"Number",,,,,,,,
+,"Job vacancies 6","1,610","1,060","520","F","780","340","395","565","460"
+,,"Dollars",,,,,,,,
+,"Average offered hourly wage 7","F","F","27.25","F","38.10","F","34.50","F","36.50"
+
+Symbol legend:
+E, use with caution
+F, too unreliable to be published
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+"Table Corrections:"
+Date,Note
+"2024-04-12","On April 12, 2024, average offered hourly wage estimates have been corrected for the Q4 2023 reference period."
+
+
+
+Footnotes:
+1,"Data quality indicators are based on the coefficient of variation (CV), the non-response errors, the imputation errors, and subject matter expertise: A – Excellent; B - Very good; C - Good; D – Acceptable; E - Use with caution; F - Too unreliable to publish."
+2,"Data for the second and third quarters of 2020 are unavailable due to some Statistics Canada operations being temporarily suspended during the COVID-19 pandemic."
+3,"An economic region (ER) is a grouping of complete census divisions (with one exception in Ontario) created as a standard geographic unit for analysis of regional economic activity. Canada has 76 ERs that are classified in accordance with the <a href="https://www.statcan.gc.ca/en/subjects/standard/sgc/2021/index" rel="external noopener noreferrer" target="_blank">Standard Geographical Classification (SGC) 2021 (opens new window)</a>, which is based on 2021 Census boundaries. The Job Vacancy and Wage Survey (JVWS) publishes estimates for 69 ERs, seven of which are combined. These seven combined ERs are the same as those published by the Labour Force Survey. Maps illustrating the ERs, as well as a table showing the census metropolitan areas (CMAs) and census agglomerations (CAs) within each ER, are available by selecting the “JVWS Geographical Maps” link at the bottom of the JVWS survey page <a href="http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5217" rel="external noopener noreferrer" target="_blank">5217 (opens new window)</a>."
+4,"Occupation estimates are based on the <a href="https://www.statcan.gc.ca/en/subjects/standard/noc/2021/indexV1" rel="external noopener noreferrer" target="_blank">National Occupational Classification (NOC) 2021 (opens new window)</a>."
+5,"Occupations are classified based on write-in job titles and job descriptions provided by respondents. Incomplete or vague descriptions can have an impact on the accuracy of the codes assigned to occupations, especially for more detailed levels of the occupational classification. The occupational data are presented in this table according to the National Occupational Classification (NOC) 2021 version 1.0. Job vacancy data starting in 2023Q4 were coded directly to NOC 2021 version 1.0. Historical data from 2015Q1 to 2023Q3 were converted from earlier versions of the NOC standard to NOC 2021. Reasonable care should be taken when analyzing occupation codes for more detailed levels and, in particular, revised occupations codes that are split into multiple codes in the new occupation classification (NOC 2021). In such situations, users should consider using broader occupation groups."
+8,"Improvements were made to the occupation coding procedures starting in the second quarter of 2017. This has resulted in a decrease in the number of vacancies for which the occupation is unclassified. The new coding procedures do not affect the total number of vacancies."
+6,"A job is vacant if it meets the following conditions: it is vacant on the reference date (first day of the month) or will become vacant during the month; there are tasks to be carried out during the month for the job in question; and the employer is actively seeking a worker outside the organization to fill the job. The jobs could be full-time, part-time, permanent, temporary, casual, or seasonal. Jobs reserved for subcontractors, external consultants, or other workers who are not considered employees, are excluded."
+7,"The average hourly wage offered by employers for vacant positions. It excludes overtime, tips, commissions and bonuses. Salaries are converted to hourly wages based on information regarding the frequency of pay and the expected average number of hours worked per week. The offered wage may be different from the actual wage paid once the position is filled. If the salary is different among the job vacancies for the same occupation, the respondent is asked to report the lowest wage or salary. When the compensation advertised for the job vacancy is in the form of a salary range or an hourly pay range, the respondent is asked to report the lowest value of the range. If the work will be paid based on, for example, the number of parts produced, mileage or the number of times a task is performed, the respondent is asked to report the expected minimum salary."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0444-01  Job vacancies and average offered hourly wage by occupation (unit group), quarterly, unadjusted for seasonality"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410044401
