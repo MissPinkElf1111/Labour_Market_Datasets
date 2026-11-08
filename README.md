@@ -1,10 +1,10 @@
 # Labour_Market_Datasets
-1. Job Vacancies and Vacancy Rates
-Statistics Canada · 14-10-0432-01 · Monthly
-Contains the number of job vacancies, payroll employees, and job vacancy rates by province and territory, seasonally adjusted.
-Role: Prediction target
-Use: Your prediction target (Y), specifically future job vacancy rates or job vacancy counts.
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410043201
+1. Job Vacancies and Vacancy Rates<br>
+Statistics Canada · 14-10-0432-01 · Monthly<br>
+Contains the number of job vacancies, payroll employees, and job vacancy rates by province and territory, seasonally adjusted.<br>
+Role: Prediction target<br>
+Use: Your prediction target (Y), specifically future job vacancy rates or job vacancy counts.<br>
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410043201<br>
 
 2. Labour Force Characteristics
 Statistics Canada · 14-10-0287-01 · Monthly
