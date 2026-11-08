@@ -3,7 +3,7 @@
 Statistics Canada · 14-10-0432-01 · Monthly<br>
 Contains the number of job vacancies, payroll employees, and job vacancy rates by province and territory, seasonally adjusted.<br>
 Role: Prediction target<br>
-Use: Your prediction target (Y), specifically future job vacancy rates or job vacancy counts.<br>
+Use: Future job vacancy rates or job vacancy counts.<br>
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410043201<br>
 
 2. Labour Force Characteristics
